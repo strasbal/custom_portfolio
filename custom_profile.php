@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Custom Portfolio Posts
-Plugin URI:  GITHUB RESPOSITORY ADDRESS
+Plugin URI:  https://github.com/strasbal/custom_portfolio
 Description: Custom ‘Portfolio’ post type, includes image, title, description shortcode.
 Version:     1.0
 Author:      Alex Strasburg
